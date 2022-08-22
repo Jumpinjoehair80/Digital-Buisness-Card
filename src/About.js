@@ -5,15 +5,14 @@ export default function About() {
     <main className='about--container'>
       <h3 className='about--title'>About</h3>
       <p className='about--paragraph'>
-        I am a frontend developer with a particular interest in making things
-        simple and automating daily tasks. I try to keep up with security and
-        best practices, and am always looking for new things to learn.
+        I am a frontend web developer with an interest in making simple projects
+        and automating daily tasks. I am always looking for new things to learn.
       </p>
 
       <h3 className='about--title'>Interests</h3>
       <p className='about--paragraph'>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        I love food. Card magic. Creating things on the computer. Talking with
+        friends on the phone.
       </p>
     </main>
   );
