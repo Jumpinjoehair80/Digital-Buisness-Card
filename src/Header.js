@@ -20,7 +20,11 @@ export default function Header() {
             <img src={EmailIcon} alt='Email Icon' /> Email
           </button>
         </a>
-        <a href='https://www.linkedin.com/' target='_blank' rel='noreferrer'>
+        <a
+          href='https://www.linkedin.com/in/joey-gibbons-43392698/'
+          target='_blank'
+          rel='noreferrer'
+        >
           <button className='header--media-btn'>
             <img src={LinkedinIcon} alt='LinkedIn Icon' /> LinkedIn
           </button>

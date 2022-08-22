@@ -7,16 +7,32 @@ import GitHubIcon from './GitHub-Icon.png';
 export default function Footer() {
   return (
     <footer>
-      <a href='https://twitter.com/home' target='_blank' rel='noreferrer'>
+      <a
+        href='https://twitter.com/Jumpinjoehair80'
+        target='_blank'
+        rel='noreferrer'
+      >
         <img src={TwitterIcon} alt='Twitter Icon' />
       </a>
-      <a href='https://facebook.com/' target='_blank' rel='noreferrer'>
+      <a
+        href='https://www.facebook.com/jdgibb/'
+        target='_blank'
+        rel='noreferrer'
+      >
         <img src={FacebookIcon} alt='Facebook Icon' />
       </a>
-      <a href='https://instagram.com/' target='_blank' rel='noreferrer'>
+      <a
+        href='https://instagram.com/jumpinjoey80'
+        target='_blank'
+        rel='noreferrer'
+      >
         <img src={InstagramIcon} alt='Instagram Icon' />
       </a>
-      <a href='https://github.com/' target='_blank' rel='noreferrer'>
+      <a
+        href='https://github.com/Jumpinjoehair80'
+        target='_blank'
+        rel='noreferrer'
+      >
         <img src={GitHubIcon} alt='GitHub Icon' />
       </a>
     </footer>
